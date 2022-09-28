@@ -1,3 +1,5 @@
+Working Session 1
+
 q1: about the files we should submit. the project description says that we should submit a zip file. we wonder what files it contains. are they the notebook file and the report, or sth else?
 
 addi.: ok, so what types of content should be included in the report? are there any requirements on the overall structure? thanks
@@ -7,3 +9,13 @@ q2: the description also said that the project should represent cohesiveness of 
 q3: we noticed that the deadline on moodle is only a day and 6 hrs from now, which has caused a little confusion. should we submit something before the deadline?
 
 报告集成在notebook里，记得把数据集打包在zip里
+
+=========================================================================================
+
+Working Session 3
+
+hello professor. can you hear me and see my screen?
+
+q1: the first few questions is about requirement 2. as you can see in this graph, one single dot takes y limit all the way to 7, pushing other dots below to a very limited area and making them unreadable. so can we discard the dot at the top so that the y limit could be lowered and the graph would be better.
+
+q2: the next question is that 
