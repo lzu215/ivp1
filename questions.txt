@@ -8,7 +8,7 @@ q2: the description also said that the project should represent cohesiveness of 
 
 q3: we noticed that the deadline on moodle is only a day and 6 hrs from now, which has caused a little confusion. should we submit something before the deadline?
 
-报告集成在notebook里，记得把数据集打包在zip里
+** 报告集成在notebook里，记得把数据集打包在zip里
 
 =========================================================================================
 
@@ -18,4 +18,6 @@ hello professor. can you hear me and see my screen?
 
 q1: the first few questions is about requirement 2. as you can see in this graph, one single dot takes y limit all the way to 7, pushing other dots below to a very limited area and making them unreadable. so can we discard the dot at the top so that the y limit could be lowered and the graph would be better.
 
-q2: the next question is that 
+q2: the next question is that if we draw a line chart using average values and variances in this requirement, should we also draw these dots? are they necessary?
+
+q3: 
