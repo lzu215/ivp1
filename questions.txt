@@ -16,8 +16,10 @@ Working Session 3
 
 hello professor. can you hear me and see my screen?
 
-q1: the first few questions is about requirement 2. as you can see in this graph, one single dot takes y limit all the way to 7, pushing other dots below to a very limited area and making them unreadable. so can we discard the dot at the top so that the y limit could be lowered and the graph would be better.
+q1: the first few questions is about requirement 2. as you can see in this graph, one single dot takes y limit all the way to 7, pushing other dots below to a very limited area and making them unreadable. so can we lower the y limit to get rid of the dot at the top and the graph would be better. whats your opinion, professor?
 
-q2: the next question is that if we draw a line chart using average values and variances in this requirement, should we also draw these dots? are they necessary?
+q2: the next question is that if we draw a line chart using average values and standard deviations in this requirement, should we also draw these dots? are they necessary?
 
-q3: 
+q3: are average values and standard deviations mandatory in this requirement? can we use linear regession instead?
+
+q4: we also want to know your opinion about the graphs in this file. are the color palettes('pælət) correct? are there any faults we should correct? thank you.
